@@ -9,11 +9,11 @@ export default function Signup () {
   const [tab,setTab] = useState('buyer')
   return (
     <>
-    <Head>
+    <Head >
      <title>Signup | AgroTrade</title>
     </Head>
 
-    <main className="h-screen flex justify-center items-center py-20 px-3 md:px-0">
+    <main className=" w h-screen flex justify-center items-center py-20 px-3 md:px-0">
       <div className="w-full md:w-[420px] flex flex-col gap-3 border border-grey-300 rounded-md p-3">
         <Image className="rounded-t-md" width={400} 
         height={200} src='/farm-trade.jpg' alt='farm trade'/>

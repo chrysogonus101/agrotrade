@@ -7,7 +7,7 @@ export default function Layouts({children}) {
     <>
     <NavBar/>
     {children}
-    <Footer/>
+    <Footer/>....
     </>
   )
 }

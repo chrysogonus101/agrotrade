@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Footer () {
   return (
     <footer>
-      <p>hello</p>
+      <p className="">hello</p>
     </footer>
   )
 }
