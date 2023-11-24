@@ -15,7 +15,7 @@ export default function NavBar () {
     <nav className="h-[58px] flex items-center px-20 ">
       {/* desktop nav */}
           <div className="w-full flex flex-row justify-between items-center">
-                <ul className="flex flex-row items-center sm:pl-2 gap-12">
+                <ul className="flex flex-row items-center  gap-12">
                     <li><Image width={38} height={38} src='/AGROTRADE.png' alt="logo"/></li>
                     <li className={`${montserrat_500.className}
                     text-green-700 hover:text-yellow-700 hidden`}><Link href="/">Home</Link></li>
