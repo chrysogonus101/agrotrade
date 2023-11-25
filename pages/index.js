@@ -28,7 +28,7 @@ export default function Index  () {
        <h1 className={`${nunitoBold.className} text-4xl`}>
         <span className="text-white">Agro</span>
         <span className="text-lime-300">Trade</span>
-        l
+        
         </h1>
       
 
