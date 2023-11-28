@@ -49,3 +49,4 @@ const styles = {
   block: 'flex flex-col items-center gap-3',
   btn: 'w-full h-[48px] flex justify-center items-center text-xl font-bold rounded-xl md:x-16'
 }
+

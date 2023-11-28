@@ -27,7 +27,7 @@ export default function NavBar () {
                     text-green-700 hover:text-yellow-700 hidden md:block  `}><Link href="/products">Products</Link></li>
                 </ul>
 
-            <Link className="" href='/auth/signup'>Sign up</Link>
+            <Link href='/auth/signup'>Sign up</Link>
           </div>
 
        </nav>
