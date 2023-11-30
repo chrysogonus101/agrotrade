@@ -17,7 +17,7 @@ export default function Index  () {
   <Head>
     <title>Agro Trade</title>
   </Head>
-  <main className="bg-home w-full h-screen flex flex-col justify-end md:grid md:grid-cols-2 ">
+  <main className="bg-home w-full h-screen flex flex-col justify-end md:grid md:grid-cols-2 py-2">
     {/* bottom content */}
     <div className="bg-home w-full h-screen"></div>
 
