@@ -32,7 +32,7 @@ export default function Index  () {
         </h1>
       
 
-      <p className="text-center text-md text-white">Your easy and reliable online marketplace to trade farm produce</p>
+      <p className="text-center text-md text-white">Your easy and reliable online marketplace to trade farm produce..</p>
     </div>
 
         <blockquote className={styles.block}>
